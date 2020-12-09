@@ -1,0 +1,9 @@
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\bin\x86\Debug\Ponto.exe.config
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\bin\x86\Debug\Ponto.exe
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\bin\x86\Debug\Ponto.pdb
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\obj\x86\Debug\Ponto.csprojResolveAssemblyReference.cache
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\obj\x86\Debug\Ponto.Form1.resources
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\obj\x86\Debug\Ponto.Properties.Resources.resources
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\obj\x86\Debug\Ponto.csproj.GenerateResource.Cache
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\obj\x86\Debug\Ponto.exe
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\obj\x86\Debug\Ponto.pdb

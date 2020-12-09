@@ -1,0 +1,263 @@
+﻿20:58:03 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+20:58:05 ====== ENTRADA
+		Obrigado, Gabriela. Bom trabalho.
+20:58:07 ====== ENTRADA
+		Obrigado, Fernanda. Bom trabalho.
+20:58:10 ====== Gabriela, você passou seu cartão há menos de 30 segundos.
+20:58:12 ====== Teste, você passou seu cartão há menos de 30 segundos.
+20:58:15 ====== ENTRADA
+		Obrigado, Douglas. Bom trabalho.
+20:58:20 ====== Upload File Complete, status: 226 Transfer complete.
+		
+20:58:55 ====== Bye.
+22:57:17 ====== Upload File Complete, status: 226 Transfer complete.
+		
+22:57:21 ====== ERRO: Nullable object must have a value.
+22:58:27 ====== Upload File Complete, status: 226 Transfer complete.
+		
+22:58:28 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+23:00:44 ====== Upload File Complete, status: 226 Transfer complete.
+		
+23:00:45 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+23:01:33 ====== Upload File Complete, status: 226 Transfer complete.
+		
+23:01:35 ====== ENTRADA
+		Obrigado, Gabriela. Bom trabalho.
+23:02:08 ====== Upload File Complete, status: 226 Transfer complete.
+		
+23:02:21 ====== Entrada inválida.
+		 Tente de novo.
+23:02:24 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+23:03:00 ====== Upload File Complete, status: 226 Transfer complete.
+		
+23:03:03 ====== ENTRADA
+		Obrigado, Gabriela. Bom trabalho.
+23:04:45 ====== Upload File Complete, status: 226 Transfer complete.
+		
+23:04:47 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+23:10:43 ====== Upload File Complete, status: 226 Transfer complete.
+		
+23:10:44 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+23:11:21 ====== SAÍDA
+		Obrigado, Teste. Bom descanso!
+23:11:30 ====== ENTRADA
+		Obrigado, Ivanice. Bom trabalho.
+23:11:35 ====== ENTRADA
+		Obrigado, Juscelino. Bom trabalho.
+23:11:39 ====== ENTRADA
+		Obrigado, Gabriela. Bom trabalho.
+23:12:33 ====== Teste, você já passou seu ponto hoje duas vezes.
+		 Pode ir pra casa, jovem...
+23:12:37 ====== Entrada inválida.
+		 Tente de novo.
+23:12:42 ====== Entrada inválida.
+		 Tente de novo.
+23:12:48 ====== SAÍDA
+		Obrigado, Ivanice. Bom descanso!
+23:24:11 ====== Bye.
+03:03:21 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:04:28 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:05:10 ====== Entrada inválida.
+		 Tente de novo.
+03:05:20 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:07:58 ====== SAÍDA
+		Obrigado, Teste. Bom descanso!
+03:08:58 ====== Teste, você já passou seu ponto hoje duas vezes.
+		 Pode ir pra casa, jovem...
+03:09:01 ====== ENTRADA
+		Obrigado, Gabriela. Bom trabalho.
+03:10:52 ====== Funcionário não encontrado.
+		 Tente de novo.
+03:10:56 ====== SAÍDA
+		Obrigado, Gabriela. Bom descanso!
+03:11:41 ====== Gabriela, você já passou seu ponto hoje duas vezes.
+		 Pode ir pra casa, jovem...
+03:11:43 ====== ENTRADA
+		Obrigado, Ivanice. Bom trabalho.
+03:12:31 ====== SAÍDA
+		Obrigado, Ivanice. Bom descanso!
+03:13:04 ====== ENTRADA
+		Obrigado, Fernanda. Bom trabalho.
+03:13:51 ====== SAÍDA
+		Obrigado, Fernanda. Bom descanso!
+03:14:36 ====== ENTRADA
+		Obrigado, Juscelino. Bom trabalho.
+03:15:49 ====== Douglas, ainda faltam 254 minutos para o seu horário de entrada.
+		 Tente de novo em 244 minutos.
+03:15:57 ====== Fernanda, você já passou seu ponto hoje duas vezes.
+		 Pode ir pra casa, jovem...
+03:15:59 ====== Gabriela, você já passou seu ponto hoje duas vezes.
+		 Pode ir pra casa, jovem...
+03:16:04 ====== SAÍDA
+		Obrigado, Juscelino. Bom descanso!
+03:27:31 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:27:44 ====== Funcionário não encontrado.
+		 Tente de novo.
+03:30:14 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:30:31 ====== ENTRADA
+		Obrigado, Ivanice. Bom trabalho.
+03:31:16 ====== SAÍDA
+		Obrigado, Ivanice. Bom descanso!
+03:31:57 ====== ENTRADA
+		Obrigado, Gabriela. Bom trabalho.
+03:36:54 ====== Bye.
+04:04:00 ====== Bye.
+00:07:29 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+00:08:01 ====== Bye.
+00:08:15 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+00:09:11 ====== SAÍDA
+		Obrigado, Teste. Bom descanso!
+00:14:09 ====== Bye.
+00:25:13 ====== Bye.
+00:33:11 ====== Bye.
+01:00:35 ====== OK
+01:01:23 ====== OK
+01:02:13 ====== OK
+01:02:13 ====== NOT
+01:02:34 ====== OK
+01:02:34 ====== NOT
+01:02:50 ====== OK
+01:02:50 ====== NOT
+01:04:51 ====== OK
+01:05:00 ====== OK
+01:05:00 ====== NOT
+01:05:17 ====== OK
+01:05:17 ====== NOT
+01:05:18 ====== OK
+01:05:18 ====== OK
+01:05:18 ====== NOT
+01:05:18 ====== NOT
+01:06:58 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+01:07:05 ====== Bye.
+23:35:05 ====== Upload File Complete, status: 226 Transfer complete.
+		
+23:35:10 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+23:35:45 ====== SAÍDA
+		Obrigado, Teste. Bom descanso!
+23:36:12 ====== Upload File Complete, status: 226 Transfer complete.
+		
+23:36:16 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+23:36:40 ====== Upload File Complete, status: 226 Transfer complete.
+		
+23:36:43 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+23:37:11 ====== Bye.
+23:38:32 ====== Upload File Complete, status: 226 Transfer complete.
+		
+23:38:35 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+23:44:39 ====== Bye.
+23:48:56 ====== Upload File Complete, status: 226 Transfer complete.
+		
+23:49:00 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+23:49:28 ====== Bye.
+23:52:28 ====== Upload File Complete, status: 226 Transfer complete.
+		
+23:52:30 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+23:54:00 ====== Upload File Complete, status: 226 Transfer complete.
+		
+23:54:07 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+23:55:55 ====== Upload File Complete, status: 226 Transfer complete.
+		
+23:56:03 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+23:58:37 ====== Upload File Complete, status: 226 Transfer complete.
+		
+23:58:39 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+23:59:32 ====== Bye.
+00:02:48 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+00:03:19 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+00:06:15 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+00:07:03 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+00:08:26 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+00:09:21 ====== Bye.
+00:12:16 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+00:15:58 ====== Bye.
+00:16:08 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+00:17:16 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+00:17:47 ====== Entrada inválida.
+		 Tente de novo.
+00:17:50 ====== Funcionário não encontrado.
+		 Tente de novo.
+00:18:01 ====== Bye.
+02:50:18 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+02:51:28 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+02:52:33 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+02:53:18 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+02:53:47 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+02:55:31 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+02:56:08 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+02:58:15 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+02:59:04 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:00:28 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:02:00 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:03:04 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:04:55 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:07:16 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:07:49 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:09:22 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:11:19 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:13:04 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:13:45 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:14:24 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:14:59 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:19:24 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:26:22 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.
+03:26:30 ====== Funcionário não encontrado.
+		 Tente de novo.
+03:26:33 ====== Funcionário não encontrado.
+		 Tente de novo.
+03:26:42 ====== Bye.
+03:33:44 ====== ENTRADA
+		Obrigado, Teste. Bom trabalho.

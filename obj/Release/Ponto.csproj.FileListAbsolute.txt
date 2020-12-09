@@ -1,0 +1,27 @@
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\bin\Release\Ponto.exe.config
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\bin\Release\Ponto.exe
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\bin\Release\Ponto.pdb
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\obj\Release\Ponto.Form1.resources
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\obj\Release\Ponto.Properties.Resources.resources
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\obj\Release\Ponto.csproj.GenerateResource.Cache
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\obj\Release\Ponto.exe
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\obj\Release\Ponto.pdb
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\bin\Release\Gma.UserActivityMonitor.dll
+g:\new folder\my documents\visual studio 2013\Projects\Ponto\Ponto\bin\Release\dbPonto.mdb
+G:\New folder\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\obj\Release\Ponto.csprojResolveAssemblyReference.cache
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\Ponto\Ponto\bin\Release\Ponto.exe.config
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\Ponto\Ponto\obj\Release\Ponto.exe
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\Ponto\Ponto\obj\Release\Ponto.pdb
+E:\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\bin\Release\dbPonto.mdb
+E:\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\bin\Release\Ponto.exe.config
+E:\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\bin\Release\Ponto.exe
+E:\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\bin\Release\Ponto.pdb
+E:\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\bin\Release\AvencaLib.dll
+E:\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\bin\Release\Gma.UserActivityMonitor.dll
+E:\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\bin\Release\AvencaLib.pdb
+E:\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\obj\Release\Ponto.csprojResolveAssemblyReference.cache
+E:\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\obj\Release\Ponto.frmMain.resources
+E:\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\obj\Release\Ponto.Properties.Resources.resources
+E:\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\obj\Release\Ponto.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\obj\Release\Ponto.exe
+E:\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\obj\Release\Ponto.pdb

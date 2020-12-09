@@ -1,0 +1,11 @@
+G:\New folder\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\bin\Debug\dbPonto.mdb
+G:\New folder\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\bin\Debug\Ponto.exe.config
+G:\New folder\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\bin\Debug\Ponto.exe
+G:\New folder\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\bin\Debug\Ponto.pdb
+G:\New folder\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\bin\Debug\Gma.UserActivityMonitor.dll
+G:\New folder\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\obj\Debug\Ponto.Form1.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\obj\Debug\Ponto.Properties.Resources.resources
+G:\New folder\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\obj\Debug\Ponto.csproj.GenerateResource.Cache
+G:\New folder\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\obj\Debug\Ponto.exe
+G:\New folder\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\obj\Debug\Ponto.pdb
+G:\New folder\My Documents\Visual Studio 2013\Projects\Ponto\Ponto\obj\Debug\Ponto.csprojResolveAssemblyReference.cache
